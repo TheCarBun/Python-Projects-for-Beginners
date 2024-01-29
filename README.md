@@ -1,4 +1,4 @@
-![](https://imgur.com/5bMzIJ8.png)
+![Python_Projects_for_Beginners (1)](https://github.com/TheCarBun/Python-Projects-for-Beginners/assets/126663378/88dfff81-a5f5-4835-ac4f-c083bd799771)
 
 <h2 align="center">INDEX</h3>
 <p align="center">
