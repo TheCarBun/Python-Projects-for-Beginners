@@ -1,7 +1,8 @@
-![Bulk_Image_Editor_in_Python](https://github.com/TheCarBun/Valo-Bot/assets/126663378/f7110b6c-51a6-465a-914c-6fbc191f9309)
+![Bulk_Image_Editor_in_Python (1)](https://github.com/TheCarBun/Python-Projects-for-Beginners/assets/126663378/f2ea2b3f-0b81-4c87-ac45-dde8413d38e3)
 
 <h2 align="center">Overview</h2>
 <h3 align="center"> A simple Python Automation program that edits Images in bulk. </h3>
+
 <hr>
 
 
