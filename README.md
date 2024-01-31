@@ -29,6 +29,7 @@ This repository is a curated collection of beginner-friendly Python projects cra
 - **Project 2:** [PDF Merger](./Projects/PDF-Merger/)
   - Merge multiple PDFs into one
 - **Project 3:** [YouTube video Downloader](./Projects/YT-Downloader/)
+  - Download YouTube video and shows video details
 
 ## How to Use
 
