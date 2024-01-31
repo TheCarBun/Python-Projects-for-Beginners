@@ -28,6 +28,7 @@ This repository is a curated collection of beginner-friendly Python projects cra
   - Bulk edit Images with set filters
 - **Project 2:** [PDF Merger](./Projects/PDF-Merger/)
   - Merge multiple PDFs into one
+- **Project 3:** [YouTube video Downloader](./Projects/YT-Downloader/)
 
 ## How to Use
 
@@ -68,3 +69,4 @@ If you have questions or need further assistance, feel free to open an issue or 
 - [Internet Made Coder](https://www.youtube.com/watch?v=vEQ8CXFWLZU)
     - Image Editor
     - PDF Merger
+    - YouTube video Downloader
