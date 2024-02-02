@@ -30,6 +30,8 @@ This repository is a curated collection of beginner-friendly Python projects cra
   - Merge multiple PDFs into one
 - **Project 3:** [YouTube video Downloader](./Projects/YT-Downloader/)
   - Download YouTube video and shows video details
+- **Project 4:** [Currency Converter](./Projects/Currency-Converter/)
+  - Convery any amount of a currency to another currency
 
 ## How to Use
 
@@ -71,3 +73,5 @@ If you have questions or need further assistance, feel free to open an issue or 
     - Image Editor
     - PDF Merger
     - YouTube video Downloader
+- [Tech With Tim](https://www.youtube.com/watch?v=zT7niRUOs9o)
+    - Currency Converter
